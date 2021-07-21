@@ -1,3 +1,5 @@
+# THIS REPO HAS BEEN DEPRECIATED, in favor of https://github.com/longhorn/benchmark .
+
 # dbench
 Benchmark Kubernetes persistent disk volumes with `fio`: Read/write IOPS, bandwidth MB/s and latency.
 
