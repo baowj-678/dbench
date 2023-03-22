@@ -1,4 +1,4 @@
-FROM dmonakhov/alpine-fio
+FROM baowj/fio:arm64
 
 MAINTAINER Lee Liu <lee@logdna.com>
 
